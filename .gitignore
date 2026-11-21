@@ -1,0 +1,25 @@
+# Environnement et caches
+env/
+__pycache__/
+hf_cache/
+# Poids, modèles et données : ils restent dans le dossier projet du cluster
+ckpts
+ckpts/
+models/
+data/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.npz
+*.zip
+# Sorties volumineuses ; results/scores.csv reste versionné
+results/met/
+results/scrub/
+results/dashboard.html
+logs/*
+!logs/.gitkeep
+# Secrets
+.env
+*token*
