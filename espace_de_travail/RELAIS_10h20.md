@@ -1,4 +1,4 @@
-# Relais pour l'autre agent — état au 22/11 vers 10h05 (rédigé par l'agent pendant ton absence)
+# Relais pour l'agent suivant — état au 22/11 vers 10h05 (rédigé par l'agent précédent pendant son absence)
 
 Ce document contient des **observations**, pas des conclusions. Tout ce qui est écrit ici est mesuré (journaux, leaderboard) ou
 explicitement marqué « non mesuré ». À toi d'en tirer les décisions. Fin des soumissions : 12h ; gel annoncé par l'équipe : 10h,
@@ -118,7 +118,7 @@ Classement final = 70 % caché (meilleur score par tâche, d'après le Discord).
 - « Même modèle » malgré : prompt système, persona, tatouage, décodage différent (température 1,0).
   « Modèle différent » : autre base, quantification fp8, LoRA (même à force 0,3).
 - 256 tokens max générés, 1 024 de prompt, 4 requêtes parallèles, température/graine/système ignorés. Nœud de login seulement.
-- Toute requête `ep-` consomme le budget : **à décider par un humain** (règle 7 du AGENTS.md du dépôt).
+- Toute requête `ep-` consomme le budget : **à décider par un humain** (règle 7 des consignes du dépôt).
 
 ### Contexte donné par E. : papier MET (Gao, Liang, Guestrin, ICLR 2025, arXiv 2410.20247) — points saillants
 - Formalise « l'API sert-elle le même modèle ? » comme un test à deux échantillons P = Q sur (prompt, complétion).

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Soumet UN fichier de masques au leaderboard WATERMARK avec la fonction submit() de submission_template.py (inchange),
-# cle lue dans ~/.hack_api_key (jamais affichee). Autorise par E. le 22/11 a ~9h06 (voir AGENTS.md).
+# cle lue dans ~/.hack_api_key (jamais affichee). Autorise par E. le 22/11 a ~9h06 (voir CONSIGNES_AGENT.md).
 # Garde-fous : fichier sous unlearning/v6N/subs/*.pt, verification du format (1020 masques 128x128 en 0/1, noms du test
 # complets et uniques, < 20 Mo), 10 min au moins depuis la soumission watermark precedente faite par ce script,
 # jamais deux fois le meme fichier. Journal : wm_journal.txt.

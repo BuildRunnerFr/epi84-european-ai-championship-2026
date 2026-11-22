@@ -19,7 +19,7 @@ Seuil éliminatoire : 70 % d'accuracy sur une validation cachée.
   Ne jamais afficher, copier ni écrire la clé ailleurs. Vérifier chaque fichier avant (strict=True, float32, fini).
   Noter chaque score dans le NOTES.md de la version. Ne jamais modifier submission.py.
 - Watermark (épreuve « Localize Image Watermark », dossier ../Hackathon_Watermark_Localisation_Task) : tâche reprise aussi par
-  E. le 22/11 à ~9h05, jusqu'à nouvel ordre. l'agent et ses agents LISENT ce dossier (et ../depot-coequipier) sans jamais rien y
+  E. le 22/11 à ~9h05, jusqu'à nouvel ordre. L'agent et ses sous-agents LISENT ce dossier (et ../depot-coequipier) sans jamais rien y
   modifier, et n'écrivent que dans unlearning/v60/, v61/… (un NOTES.md par dossier, avec une section « Rapport pour l'équipe » :
   ce qui a été réutilisé, créé, changé, mesuré). Mêmes règles GPU (file de l'équipe, jamais de sbatch).
   Soumissions watermark (autorisé par E. le 22/11 à ~9h06) : l'agent peut soumettre lui-même avec la fonction submit() de

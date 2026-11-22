@@ -1,6 +1,6 @@
 # v70 — Unlearning : suite de la famille « tout plus hésitant » (v47 p_*)
 
-Repris par l'agent à 9h45 le 22/11, après l'autre agent. Aucun fichier de v47 modifié : les scripts `v47/unlearn.py` et
+Repris par un autre agent à 9h45 le 22/11. Aucun fichier de v47 modifié : les scripts `v47/unlearn.py` et
 `v47/etape2.py` sont appelés tels quels, sorties dans v70/.
 
 ## Point de départ (leaderboard public)

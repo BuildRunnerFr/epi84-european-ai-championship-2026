@@ -1,7 +1,7 @@
 # CONTEXTE — Épreuve 3 (Unlearning), European AI Championship Paris
 
 Ce fichier donne tout le contexte nécessaire pour m'aider sur l'épreuve 3. Les règles de travail
-(ce qui est interdit, versions vN/, sbatch) sont dans AGENTS.md et restent prioritaires.
+(ce qui est interdit, versions vN/, sbatch) sont dans CONSIGNES_AGENT.md et restent prioritaires.
 
 ## 1. Situation
 
